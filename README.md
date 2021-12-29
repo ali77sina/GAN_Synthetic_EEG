@@ -5,8 +5,8 @@ Examples are shwon below, first one being the GAN model trained on normal EEG da
 
 **The plot for normal data**
 
-![alt text](https://github.com/ali77sina/GAN_Synthetic_EEG/blob/main/no%20sez%20fig.png)
+![alt text](https://github.com/ali77sina/GAN_Synthetic_EEG/blob/main/no%20siz%20wt.JPG)
 
 **The plot for abnormal data**
 
-![alt text](https://github.com/ali77sina/GAN_Synthetic_EEG/blob/main/siz%20fig.png)
+![alt text](https://github.com/ali77sina/GAN_Synthetic_EEG/blob/main/siz%20wt.JPG)
